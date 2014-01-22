@@ -48,6 +48,16 @@
 
 ---
 
+# gulp-testium
+
+[![Dependency status](https://david-dm.org/alexgorbatchev/gulp-testium.png)](https://david-dm.org/alexgorbatchev/gulp-testium)
+[![devDependency Status](https://david-dm.org/alexgorbatchev/gulp-testium/dev-status.png)](https://david-dm.org/alexgorbatchev/gulp-testium#info=devDependencies)
+[![Build Status](https://secure.travis-ci.org/alexgorbatchev/gulp-testium.png?branch=master)](https://travis-ci.org/alexgorbatchev/gulp-testium)
+
+[![NPM](https://nodei.co/npm/gulp-testium.png?downloads=true)](https://npmjs.org/package/gulp-testium)
+
+---
+
 # jade-compiler
 
 [![Dependency status](https://david-dm.org/alexgorbatchev/jade-compiler.png)](https://david-dm.org/alexgorbatchev/jade-compiler)
