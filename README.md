@@ -48,6 +48,18 @@
 
 ---
 
+# gulp-print
+
+This is a very basic [gulp](http://gulpjs.com) plugin that prints names of files.
+
+[![Dependency status](https://david-dm.org/alexgorbatchev/gulp-print.png)](https://david-dm.org/alexgorbatchev/gulp-print)
+[![devDependency Status](https://david-dm.org/alexgorbatchev/gulp-print/dev-status.png)](https://david-dm.org/alexgorbatchev/gulp-print#info=devDependencies)
+[![Build Status](https://secure.travis-ci.org/alexgorbatchev/gulp-print.png?branch=master)](https://travis-ci.org/alexgorbatchev/gulp-print)
+
+[![NPM](https://nodei.co/npm/gulp-print.png?downloads=true)](https://npmjs.org/package/gulp-print)
+
+---
+
 # gulp-testium
 
 [![Dependency status](https://david-dm.org/alexgorbatchev/gulp-testium.png)](https://david-dm.org/alexgorbatchev/gulp-testium)
